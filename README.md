@@ -61,7 +61,7 @@ PostgreSQL • MongoDB • MySQL
 
 **Tech:** React • Node.js • TypeScript • MongoDB • AWS • Stripe  
 
-🔗 **Live Demo:** [Add Link Here]  
+🔗 **Live Demo:** https://veda-byte.vercel.app/ 
 📂 **GitHub Repo:** [Add Link Here]  
 
 ---
