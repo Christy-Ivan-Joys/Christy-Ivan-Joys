@@ -116,11 +116,9 @@ PostgreSQL • MongoDB • MySQL
   <a href="https://www.linkedin.com/in/christy-ivan-joys-165b33247/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
   </a>
-
   <a href="https://instagram.com/mr__illusion___" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
   </a>
-
   <a href="https://leetcode.com/u/Christyivanjoys/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
   </a>
