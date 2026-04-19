@@ -5,6 +5,10 @@
 Building scalable, production-ready applications with real-world impact 🚀
 </p>
 
+<p align="center">
+  🌐 <a href="https://christy-portfolio-theta.vercel.app/" target="_blank"><b>View My Portfolio</b></a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -14,6 +18,7 @@ Building scalable, production-ready applications with real-world impact 🚀
 - 🏗️ Built and deployed **end-to-end production systems**
 - ⚡ Strong in **frontend architecture & backend system design**
 - 🌱 Currently building: **AI-powered applications & scalable SaaS systems**
+- 🌐 Portfolio: https://christy-portfolio-theta.vercel.app/
 
 ---
 
@@ -50,6 +55,8 @@ PostgreSQL • MongoDB • MySQL
 
 ## 🌟 Featured Projects
 
+> 🔗 Explore all projects in detail: https://christy-portfolio-theta.vercel.app/
+
 ### 🎓 VedaByte — E-Learning Platform
 > Full-stack platform with real-time features and payments
 
@@ -61,8 +68,8 @@ PostgreSQL • MongoDB • MySQL
 
 **Tech:** React • Node.js • TypeScript • MongoDB • AWS • Stripe  
 
-🔗 **Live Demo:** https://veda-byte.vercel.app/ 
-📂 **GitHub Repo:** https://github.com/Christy-Ivan-Joys/VedaByte
+🔗 **Live Demo:** https://veda-byte.vercel.app/  
+📂 **GitHub Repo:** https://github.com/Christy-Ivan-Joys/VedaByte  
 
 ---
 
@@ -75,20 +82,6 @@ PostgreSQL • MongoDB • MySQL
 - 🌍 AWS deployment with NGINX
 
 **Tech:** Node.js • Express • MongoDB • EJS • AWS  
-
-🔗 **Live Demo:** [Add Link Here]  
-📂 **GitHub Repo:** [Add Link Here]  
-
----
-
-### 🚀 (Your Next Flagship Project)
-> Add your strongest upcoming project here (Recommended: AI-based system)
-
-- ✨ Key Feature 1  
-- ⚡ Key Feature 2  
-- 🔥 Key Feature 3  
-
-**Tech:** (Your stack)  
 
 🔗 **Live Demo:** [Add Link Here]  
 📂 **GitHub Repo:** [Add Link Here]  
@@ -108,7 +101,6 @@ PostgreSQL • MongoDB • MySQL
 </p>
 
 ---
-
 
 <h3 align="center">Connect with me</h3>
 
