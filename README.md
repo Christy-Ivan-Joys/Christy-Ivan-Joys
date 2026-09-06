@@ -1,139 +1,191 @@
-<h1 align="center">Hi 👋, I'm Christy Ivan Joys</h1>
-<h3 align="center">Full Stack Developer | React • TypeScript • Node.js • NestJS</h3>
+# Hi 👋, I'm Christy Ivan Joys
 
-<p align="center">
-Building scalable, production-ready applications with real-world impact 🚀
-</p>
+### Full Stack Software Engineer
 
-<p align="center">
-  🌐 <a href="https://christy-portfolio-theta.vercel.app/" target="_blank"><b>View My Portfolio</b></a>
-</p>
+**React.js • TypeScript • Node.js • NestJS • AWS**
+
+Building scalable, production-ready applications from **frontend to backend, deployment, and production support.**
+
+[🌐 Portfolio](https://christy-portfolio-theta.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/christy-ivan-joys-165b33247/) • [💻 GitHub](https://github.com/Christy-Ivan-Joys) • [🧩 LeetCode](https://leetcode.com/u/Christyivanjoys/)
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💼 Full Stack Developer at **VIKI.AI, Bangalore**
-- 🧠 2+ years of hands-on experience (professional + self-driven)
-- 🏗️ Built and deployed **end-to-end production systems**
-- ⚡ Strong in **frontend architecture & backend system design**
-- 🌱 Currently building: **AI-powered applications & scalable SaaS systems**
-- 🌐 Portfolio: https://christy-portfolio-theta.vercel.app/
+I'm a **Full Stack Software Engineer with 2+ years of professional experience** building and maintaining production-grade applications.
+
+I enjoy working across the stack — from designing responsive React interfaces and reusable frontend systems to building scalable NestJS APIs, asynchronous workers, enterprise integrations, and cloud deployments.
+
+* 🚀 Building and owning **production applications end-to-end**
+* ⚛️ Strong focus on **React, TypeScript & frontend architecture**
+* ⚙️ Experienced with **Node.js, NestJS & RESTful APIs**
+* ☁️ Hands-on with **AWS, deployments & production environments**
+* 🔄 Experienced in **UAT, production support, debugging & critical hotfixes**
+* 🏢 Worked with **SAP, BigQuery & third-party integrations**
+* 🔐 Implemented **SSO, JWT authentication & role-based access control**
+* 📊 Built **analytics dashboards and interactive production-planning systems**
+* 👥 Experience with **code reviews and mentoring junior developers**
+* 🧠 Currently strengthening **system design, scalability & AI engineering**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-React • Next.js • TypeScript • Tailwind CSS • Material UI • Styled Components • Redux • Zustand  
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+
+**React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • Material UI • Styled Components • Redux • Zustand • Chart.js**
+
+---
 
 ### ⚙️ Backend
-Node.js • NestJS • Express • REST APIs • JWT Auth • Socket.IO  
 
-### ☁️ Cloud & DevOps
-AWS (EC2, S3) • NGINX • Git  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+**Node.js • NestJS • Express.js • RESTful APIs • Authentication & Authorization • SSO • JWT • Background Processing • AWS SQS • PDF Generation & Processing**
+
+---
 
 ### 🗄️ Databases
-PostgreSQL • MongoDB • MySQL  
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+**PostgreSQL • MySQL • MongoDB • Database Design • Query Optimization • Caching**
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+**AWS EC2 • AWS S3 • AWS SQS • NGINX • Application Deployment • Git • GitHub**
+
+---
+
+### 🏗️ Architecture & Engineering
+
+**API Design • Asynchronous Processing • Role-Based Access Control • Clean Architecture • Caching • System Design • Production Troubleshooting • Enterprise Integrations**
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Full Stack Developer — VIKI.AI  
-📍 Bangalore | 🗓️ Sep 2024 – Present  
+### Full Stack Developer — VIKI.AI
 
-- 🚀 Built and owned a **Sales & Operations platform end-to-end**
-- 🧩 Designed scalable APIs and integrated **SAP & third-party systems**
-- ⚡ Optimized backend performance using **caching & PostgreSQL tuning**
-- 📊 Developed **Gantt-based production planning system** with complex scheduling logic
-- 🌐 Built company website using **Next.js (SEO optimized)**
-- ☁️ Deployed applications on AWS (EC2, S3)
-- 👥 Mentored developers and ensured code quality in a fast-paced team
+📍 Bangalore, India | 🗓️ September 2024 – Present
+
+* 🚀 Owned end-to-end development of a **production-grade B2B e-commerce and operations platform**, covering purchasing, quotations, sales, dispatch, service management, finance, onboarding, account management, and RBAC.
+* ⚙️ Developed scalable **NestJS/Node.js REST APIs** and integrated SAP, BigQuery, and third-party services for enterprise workflows.
+* 🔄 Designed an **AWS SQS-based background worker architecture** for reliable asynchronous processing of long-running tasks.
+* 🔐 Implemented **SSO and centralized authentication flows** across enterprise applications.
+* 📄 Built backend **PDF generation and extraction workflows** for business documents and automated form population.
+* ⚡ Improved application performance through **caching and PostgreSQL query/schema optimization**.
+* 📊 Built **analytics and production-planning modules**, including Chart.js visualizations and interactive Gantt charts for production scheduling.
+* 🎨 Developed reusable **React/TypeScript frontend architecture**, shared UI components, design patterns, and responsive interfaces across applications.
+* 🛠️ Owned feature development, deployments, UAT and production support across multiple applications, including debugging, RCA, incident resolution, and critical hotfixes.
+* 👥 Mentored junior developers through **code reviews, debugging, technical discussions, and implementation guidance**.
 
 ---
 
-## 🌟 Featured Projects
-
-> 🔗 Explore all projects in detail: https://christy-portfolio-theta.vercel.app/
+## 🚀 Featured Projects
 
 ### 🎓 VedaByte — E-Learning Platform
-> Full-stack platform with real-time features and payments
 
-- 🔐 Role-based authentication (Student / Instructor / Admin)
-- 💬 Real-time chat using Socket.IO
-- 💳 Stripe payment integration
-- 🌐 Google OAuth login
-- ☁️ Cloud deployment with active users
+A full-stack e-learning platform supporting **students, instructors, and administrators**.
 
-**Tech:** React • Node.js • TypeScript • MongoDB • AWS • Stripe  
+**Key Features**
 
-🔗 **Live Demo:** https://veda-byte.vercel.app/  
-📂 **GitHub Repo:** https://github.com/Christy-Ivan-Joys/VedaByte  
+* 🔐 Role-based JWT authentication
+* 🌐 Google OAuth authentication
+* 💬 Real-time communication using Socket.IO
+* 💳 Stripe payment integration
+* 👨‍🏫 Student / Instructor / Admin workflows
+* ☁️ AWS deployment
+
+**Tech:** React • TypeScript • Node.js • Express.js • MongoDB • Socket.IO • Stripe • AWS
+
+🌐 **Live:** [veda-byte.vercel.app](https://veda-byte.vercel.app/)
+
+💻 **Repository:** [GitHub](https://github.com/Christy-Ivan-Joys/VedaByte)
 
 ---
 
 ### 🛒 BroCapital — E-Commerce Platform
-> Production-ready e-commerce system with real transactions
 
-- 💳 Razorpay payment integration
-- 📊 Admin dashboard with analytics
-- 📄 PDF & Excel reporting
-- 🌍 AWS deployment with NGINX
+A full-stack e-commerce platform with payment processing, administration, reporting, and analytics.
 
-**Tech:** Node.js • Express • MongoDB • EJS • AWS  
+**Key Features**
 
-🔗 **Live Demo:** [Add Link Here]  
-📂 **GitHub Repo:** [Add Link Here]  
+* 💳 Razorpay payment integration
+* 📊 Admin dashboard & sales analytics
+* 📄 PDF & Excel report generation
+* 📈 Chart.js-based business analytics
+* ☁️ AWS EC2 deployment
+* 🌐 NGINX production configuration
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Christy-Ivan-Joys&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Christy-Ivan-Joys&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christy-Ivan-Joys&layout=compact&theme=tokyonight" />
-
-</p>
+**Tech:** Node.js • Express.js • MongoDB • EJS • Bootstrap • AWS • Razorpay • Chart.js
 
 ---
 
-<h3 align="center">Connect with me</h3>
+## 🧠 Engineering Focus
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/christy-ivan-joys-165b33247/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/mr__illusion___" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Christyivanjoys/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
-  </a>
-</p>
+I'm particularly interested in building systems that are:
 
----
+```text
+Scalable
+   ↓
+Maintainable
+   ↓
+Performant
+   ↓
+Production Ready
+```
 
-## ⚡ What Makes Me Different
+Areas I'm currently focusing on:
 
-- 🧠 I don’t just build features — I design **scalable systems**
-- ⚡ Focused on **performance, clean architecture, and real users**
-- 🚀 Experience taking products from **idea → production**
-
----
-
-## 🎯 Current Focus
-
-- 🔥 Building AI-powered applications  
-- 📈 Improving system design & scalability skills  
-- 🚀 Creating high-impact real-world projects  
+* 🏗️ System Design & Architecture
+* ⚡ Backend Scalability & Performance
+* 🤖 AI-powered Applications
+* ☁️ Cloud Architecture
+* 🔄 Distributed & Asynchronous Systems
+* 📊 Data-driven Applications
 
 ---
 
-## ⚡ Fun Fact
+## 📈 GitHub Activity
 
-I build things that actually go live and get used — not just projects that sit in GitHub 😄
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christy-Ivan-Joys\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christy-Ivan-Joys\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+I'm always interested in discussing **software engineering, system design, full-stack development, AI, and interesting technical problems.**
+
+📧 **Email:** [christyivanjoys@gmail.com](mailto:christyivanjoys@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/christy-ivan-joys-165b33247](https://www.linkedin.com/in/christy-ivan-joys-165b33247)
+
+🌐 **Portfolio:** [christy-portfolio-theta.vercel.app](https://christy-portfolio-theta.vercel.app)
+
+💻 **GitHub:** [github.com/Christy-Ivan-Joys](https://github.com/Christy-Ivan-Joys)
+
+---
+
+### ⚡ Building → Learning → Shipping → Improving
